@@ -106,7 +106,6 @@ class Umpire
             }
             if(numFromPlayer1 == numFromGuesser){
                 System.out.println("Player 1 has Won!!");
-                System.out.println("THAT");
                 return 0;
             } 
             else if( numFromPlayer2 == numFromGuesser){
@@ -131,7 +130,6 @@ class Umpire
             }
             if(numFromPlayer1 == numFromGuesser){
                 System.out.println("Player 1 has Won!!");
-                System.out.println("this");
                 return 0;
             } 
             else if( numFromPlayer3 == numFromGuesser){
